@@ -22,3 +22,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 __*
+
+#custom
+/.github/workflows/azure-static-web-apps-icy-plant-0b10dfb0f.yml
